@@ -1,1 +1,9 @@
 # Coding-with-Python-Lab
+Assignment 1: 
+  a. assignment1_readiness.py
+  b. assignment1_readiness_perfect_run
+  c. assignment1_readiness_failed_run
+Assignment 2:
+  a. weather_bot.py
+  b. weather_bot_perfect_run
+  c. weather_bot_failed_run
