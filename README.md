@@ -14,3 +14,11 @@ Assignment 2:
   b. weather_bot_perfect_run 
   
   c. weather_bot_failed_run
+
+Assignment 3:
+
+  a. assignment2_1_climatic_logic.py
+  
+  b. assignment2_1_climatic_logic 
+  
+  c. assignment2_1_climatic_logic2
