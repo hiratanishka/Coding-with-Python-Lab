@@ -1,8 +1,12 @@
 # Coding-with-Python-Lab
 Class 1:
-    CWPclass1
+
+    CWPclass1.py
+    
 Class 2:
-    CWPclass2
+
+    CWPclass2.py
+    
 Assignment 1: 
 
   a. assignment1_readiness.py 
