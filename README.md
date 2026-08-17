@@ -8,25 +8,19 @@ Class 2:
     CWPclass2.py
     
 Assignment 1: 
-
-  a. assignment1_readiness.py 
-  
-  b. assignment1_readiness_perfect_run 
-  
-  c. assignment1_readiness_failed_run
+    
+    assignment1_readiness.py
+    assignment1_readiness_perfect_run 
+    assignment1_readiness_failed_run
 
 Assignment 2: 
-
-  a. weather_bot.py
-  
-  b. weather_bot_perfect_run 
-  
-  c. weather_bot_failed_run
+    
+    weather_bot.py
+    weather_bot_perfect_run 
+    weather_bot_failed_run
 
 Assignment 3:
 
-  a. assignment2_1_climatic_logic.py
-  
-  b. assignment2_1_climatic_logic 
-  
-  c. assignment2_1_climatic_logic2
+    assignment2_1_climatic_logic.py
+    assignment2_1_climatic_logic 
+    assignment2_1_climatic_logic2
