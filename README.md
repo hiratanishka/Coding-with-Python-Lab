@@ -24,3 +24,8 @@ Assignment 3:
     assignment2_1_climatic_logic.py
     assignment2_1_climatic_logic 
     assignment2_1_climatic_logic2
+
+Assignment 4:
+
+    packet_scrambler.py
+    packet_scrambler_console_log.py
