@@ -1,31 +1,35 @@
 # Coding-with-Python-Lab
-Class 1:
+CWPclass:
 
     CWPclass1.py
-    
-Class 2:
-
     CWPclass2.py
+    CWPclass3.py
+    CWPclass4.py
     
 Assignment 1: 
     
     assignment1_readiness.py
-    assignment1_readiness_perfect_run 
-    assignment1_readiness_failed_run
+    assignment1_readiness_perfect_run.png
+    assignment1_readiness_failed_run.png
 
 Assignment 2: 
     
     weather_bot.py
-    weather_bot_perfect_run 
-    weather_bot_failed_run
+    weather_bot_perfect_run.png 
+    weather_bot_failed_run.png
 
 Assignment 3:
 
     assignment2_1_climatic_logic.py
-    assignment2_1_climatic_logic 
-    assignment2_1_climatic_logic2
+    assignment2_1_climatic_logic.png 
+    assignment2_1_climatic_logic2.png
 
 Assignment 4:
 
     packet_scrambler.py
-    packet_scrambler_console_log.py
+    packet_scrambler_console_log.png
+
+Assignment 5:
+
+    anomalyauditor.png
+    anomalyauditor.py
