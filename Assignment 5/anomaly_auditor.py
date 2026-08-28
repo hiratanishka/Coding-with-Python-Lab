@@ -25,14 +25,14 @@ for batch_id in range(len(telemetry_stream)):
             if reading > 35.0:
                 print("Anomaly Detected at Batch", batch_id,":", reading)
 
-                if previous_value is not None:
+            if previous_value is not None:
 
-                    delta =abs(reading-previous_value)
+                delta = abs(reading-previous_value)
 
-                    if delta > 5.0:
-                        print(f"spike detected at batch id{batch_id}:"
-                              f"{previous_value} -> {reading} "
-                              f"Delta{delta:.1f}")
+                if delta > 5.0:
+                    print(f"Spike detected at batch {batch_id}:"
+                          f"{previous_value} -> {reading} "
+                          f"Delta{delta:.1f}")
             previous_value = reading
             
     if shutdown_triggered:
