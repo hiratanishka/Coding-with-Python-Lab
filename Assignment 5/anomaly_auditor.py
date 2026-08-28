@@ -37,5 +37,5 @@ for batch_id in range(len(telemetry_stream)):
             
     if shutdown_triggered:
         break
-    else:
-        print("Audit Complete: No system-wide failures")
+else:
+    print("Audit Complete: No system-wide failures")
